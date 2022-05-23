@@ -8,4 +8,4 @@
 
 ***
 
-[Count New Years eve](https://grinch3214.github.io/date-js/dist/)
+[Count New Years eve](https://grinch3214.github.io/date-js/)
